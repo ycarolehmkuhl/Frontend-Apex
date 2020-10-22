@@ -1,0 +1,4 @@
+- Criar um projeto e ReactJs no CMD
+ - Comando - npx create-react-app nome do preojeto
+- Inciar terminal
+ - npm start.
