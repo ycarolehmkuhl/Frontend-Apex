@@ -1,0 +1,16 @@
+{
+    "cursos" : [
+        {
+            "nome": "Node.js",
+            "valor": 950,
+            "id": 1
+        },
+        
+        {
+            "nome": "HTML, CSS",
+            "valor": 670,
+            "id": 2
+        }
+    ]
+    
+}
